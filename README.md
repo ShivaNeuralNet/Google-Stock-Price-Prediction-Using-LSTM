@@ -4,6 +4,11 @@
 ![Python](https://img.shields.io/badge/Python-3.9.12-blue)
 ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-yellow)
 
+<p align="center">
+  <img src="project-preview.png" alt="Project Thumbnail" width="800"/>
+</p>
+
+
 ## Project Overview
 This project applies deep learning to perform **short-term stock price prediction** using Google's historical stock data from **August 2004 to December 2024**. Beyond just modeling, this project demonstrates **exploratory financial analysis**, **data-driven decision-making**, and **LSTM model optimization** for time series forecasting.
 
