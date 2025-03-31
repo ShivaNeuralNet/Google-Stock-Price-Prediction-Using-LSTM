@@ -1,5 +1,9 @@
 # 📈 Google Stock Price Prediction Using LSTM
 
+![TensorFlow](https://img.shields.io/badge/Built%20with-TensorFlow-orange)
+![Python](https://img.shields.io/badge/Python-3.9.12-blue)
+![Notebook](https://img.shields.io/badge/Notebook-Jupyter-yellow)
+
 ## Project Overview
 This project applies deep learning to perform **short-term stock price prediction** using Google's historical stock data from **August 2004 to December 2024**. Beyond just modeling, this project demonstrates **exploratory financial analysis**, **data-driven decision-making**, and **LSTM model optimization** for time series forecasting.
 
